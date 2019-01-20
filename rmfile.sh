@@ -1,5 +1,6 @@
 #!/bin/bash
 #author:qxt
+123
 cd /home/qxt/yolo3_cj
 filenum=$(ls *.h5 -l|grep "^-"|wc -l)
 index=0
